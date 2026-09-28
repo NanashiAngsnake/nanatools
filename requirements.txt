@@ -1,0 +1,9 @@
+customtkinter>=5.2.2        # the whole UI (tkinter ships with Python)
+
+Pillow>=12.1.1              # webp / jpeg2000 / AVIF all compiled in on 12.1.1
+
+yt-dlp>=2026.3.17           # updates often; the panel offers an update button
+
+fugashi>=1.5.2              # MeCab bindings
+unidic-lite>=1.0.8          # the dictionary fugashi tokenizes against
+jaconv>=0.5.0               # kana conversion helpers
